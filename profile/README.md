@@ -50,17 +50,10 @@ dedicated to crafting extraordinary software solutions.
 - **Laura Chaves**, Chief Executive Officer
 - **Andres Murcia**, Chief Technology Officer
 
-## Global Presence
-- **Brainz, LLC**
-  - 2810 N Church St, Wilmington, Delaware, USA
-- **Brainz, SAS**
-  - Kr 7A # 146 89 - 1301, Bogotá, Colombia
-
 ## Contact and Collaboration
 Got an idea or project in mind? Let's make it happen! Reach out to us:
 - 🌐 [www.brainz.llc](https://www.brainz.llc)
 - 📧 hello@brainz.llc
-- 📞 (302) 304-8070
 
 ## Join Our Team
 Looking for a career where your creativity can thrive? [Join us](https://www.brainz.llc/join-us) at Brainz and be a part of something extraordinary!
